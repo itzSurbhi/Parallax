@@ -22,7 +22,7 @@ parallax-project/
 │── foreground image.png # Foreground image
 │── biking.webp # Section background (biking)
 │── paragliding.webp# Section background (paragliding)
-│── surfing.webp # Section background (surfing)
+│── surfing.webp # Section background (surfing).
 
 ---
 
